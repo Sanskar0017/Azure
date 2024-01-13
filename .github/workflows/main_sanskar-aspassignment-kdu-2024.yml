@@ -50,4 +50,4 @@ jobs:
           app-name: 'Sanskar-aspassignment-kdu-2024'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2B735ED2E77940FFA1C7D69C707A0435 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1271F0DCE3B342F19623FB126A743127 }}
